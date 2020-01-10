@@ -12,4 +12,4 @@ function calculateValidationNumber(input) {
     return sum;
 }
 
-console.log(calculateValidationNumber(23478998));
+console.log(calculateValidationNumber(<Enter Number Here>));
